@@ -1,0 +1,5 @@
+# animeo
+
+Anime Streaming Application.
+
+
